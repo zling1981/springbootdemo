@@ -11,7 +11,7 @@ public class SampleController {
     @RequestMapping("/")
     @ResponseBody
     String home() {
-        return "Hello World cccccccccc!";
+        return "Hello World jjjjjjjjjjjjjj!";
     }
 
     public static void main(String[] args) throws Exception {
