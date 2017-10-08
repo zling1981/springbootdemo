@@ -13,6 +13,8 @@ public class SampleController {
     String home() {
         return "Hello World edit it!";
     }
+    
+        String test() {        return "test a !";    }
 
     public static void main(String[] args) throws Exception {
         SpringApplication.run(SampleController.class, args);
